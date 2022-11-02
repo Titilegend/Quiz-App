@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signIn">Sign In</string>
+    <string name="signUp">Sign Up</string>
+    <string name="signOut">Sign Out</string>
+    <string name="signUpHeading">Create Account</string>
+    <string name="OR">OR</string>
+    <string name="ForgotPassword">Forgot Password?</string>
+    <string name="ResetPassword">Reset Password</string>
+    <string name="Continue">Continue</string>
+    <string name="StartQuiz">Start Quiz</string>
+    <string name="Time">Time:</string>
+    <string name="TimeInt">60</string>
+    <string name="Correct">Correct Answer:</string>
+    <string name="CongratulationsResult">Congratulations</string>
+    <string name="CorrectInt">0</string>
+    <string name="WrongAnswer">Wrong Answer:</string>
+    <string name="WrongAnswerInt">0</string>
+    <string name="Finish">Finish</string>
+    <string name="Next">Next</string>
+    <string name="playAgain">Play Again</string>
+    <string name="exit">Exit</string>
+    <string name="timeUp">Sorry,Time is up! Continue with next question</string>
+    <string name="ResetPasswordText">
+    Enter the email address associated with your account
+    and we\'ll send you a link to reset your password.</string>
+    <string name="Account">Don\'t have an account yet? <font color="#320767"><b><u>Sign Up</u></b></font></string>
+</resources>
