@@ -1,4 +1,4 @@
-# Quiz-App
+# Quiz App
 The Quiz Game is an interactive and engaging Android application designed to test and enhance your knowledge through a series of quiz questions. It offers a fun and challenging way to learn and explore various subjects while keeping track of your progress.
 
 ## Features
