@@ -19,6 +19,7 @@ Immediate Feedback: Instant feedback is provided for each answer, indicating whe
 ## Installation
 1. Clone the repository to your local machine.
 2. Open the project in Android Studio.
-3. Build and run the app on your Android device or emulator.
+3. Configure Firebase Authentication by following the instructions in the firebase_auth_setup.md file.
+4. Build and run the app on your Android device or emulator.
 
 
