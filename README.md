@@ -16,7 +16,7 @@ Immediate Feedback: Instant feedback is provided for each answer, indicating whe
 
 **Data Storage:** Firebase Realtime Database
 ## Demo
-Try out our app [here](https://appetize.io/app/your_unique_appetize_io_url) to see it in action without installing it!
+Try out our app [here](https://appetize.io/app/pw2tshamx4qzagj7w3sh74xuny?device=pixel7&osVersion=13.0) to see it in action without installing it!
 
 
 ## Installation
