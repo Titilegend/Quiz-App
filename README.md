@@ -15,6 +15,9 @@ Immediate Feedback: Instant feedback is provided for each answer, indicating whe
 **Development Environment:** Android Studio
 
 **Data Storage:** Firebase Realtime Database
+## Demo
+Try out our app [here](https://appetize.io/app/your_unique_appetize_io_url) to see it in action without installing it!
+
 
 ## Installation
 1. Clone the repository to your local machine.
